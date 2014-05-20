@@ -16,4 +16,4 @@ You can now build web application and accessing to native components simply for 
 
 ### Installation and demo
 
-Download and install the application. Install the SailsAndroidServer present on my GitHub https://github.com/PBRT/SailsAndroidServer to have a simple demonstration.
+Download and install the application. Install the SailsAndroidServer present on my GitHub https://github.com/PBRT/Sails-Android-Server to have a simple demonstration.
